@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Shane Pittman
 
-I like to:
+I lika: do da cha cha
 
-I'm learning:
+I'm learning: Data Vizualization / ReactJS
 
 ```
 
