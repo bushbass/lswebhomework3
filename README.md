@@ -11,11 +11,11 @@
 
 ```
 
-My name is: Shane Pittman
+My name is: Alex Nielsen
 
-I lika: do da cha cha
+I lika: bang da drums
 
-I'm learning: Data Vizualization / ReactJS
+I'm learning: node and express
 
 ```
 
